@@ -1,0 +1,41 @@
+body{
+    width: 600px;
+    margin: auto;
+    margin-top: 25vh;
+}
+.bol{
+    border: 1px solid red;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    
+    margin:5px;
+
+    display: inline-block;
+
+}
+.bolgroen{
+    border: 1px solid green;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    
+    margin:5px;
+    
+    display: inline-block;
+}
+
+.bolblauw{
+    border: 1px solid blue;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    
+    margin:5px;
+    
+    display: inline-block;
+}
+
